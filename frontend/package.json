@@ -1,0 +1,13 @@
+{
+  "name": "ai-ledger-frontend",
+  "version": "1.0.0",
+  "description": "AI 가계부 시스템 프론트엔드",
+  "type": "module",
+  "scripts": {
+    "dev": "python3 -m http.server 3001 --directory public --bind 0.0.0.0",
+    "start": "python3 -m http.server 3001 --directory public --bind 0.0.0.0"
+  },
+  "keywords": ["react", "pwa", "ai", "ledger"],
+  "author": "AI Ledger Team",
+  "license": "MIT"
+}

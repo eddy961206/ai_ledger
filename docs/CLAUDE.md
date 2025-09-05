@@ -89,4 +89,5 @@ This is an **AI-powered household ledger system** that integrates multiple exter
 - **Mixed Assets**: HTML, CSS, JS, and JSX files alongside Python modules
 - **Documentation**: Korean markdown files with architecture and deployment guides
 
-- 응답은 모두 반말로 할 것것
+- 응답은 모두 반말로 할 것
+- 현재 환경 : 윈도우 11 상 WSL 에서 claude code 실행 중
