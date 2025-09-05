@@ -1,0 +1,32 @@
+{
+  "name": "AI 인공지능 가계부",
+  "short_name": "AI 가계부",
+  "description": "AI 기반 스마트한 소비 분석과 예산 관리 시스템",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "categories": ["finance", "productivity", "utilities"],
+  "lang": "ko",
+  "scope": "/",
+  "prefer_related_applications": false
+}
+
